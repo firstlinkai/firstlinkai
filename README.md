@@ -62,9 +62,9 @@ If you want to reduce manual work, publish faster, or turn scattered data into o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suneel-p)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firstlinkai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=firstlinkai&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firstlinkai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=firstlinkai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firstlinkai&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=firstlinkai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=firstlinkai&icon=0&color=0)](https://visitcount.itsvg.in)
